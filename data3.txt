@@ -1,0 +1,296 @@
+Here is a structured version of the information you provided, optimized for a chatbot database to fetch answers clearly:  
+
+---
+
+## **Vardhaman College of Engineering (VCE) - Overview**  
+- **Affiliation**: Autonomous under JNTU Hyderabad  
+- **Location**: Kacharam Village, Shamshabad, Ranga Reddy District, Hyderabad  
+- **Accreditations**:  
+  - NAAC A++ with CGPA 3.58/4  
+  - NBA Tier-1 for B.Tech (ECE, EEE, CSE, ME, CE, IT)  
+  - MBA program accredited by NBA (2023)  
+
+- **Campus Facilities**:  
+  - Academic blocks, computer centers, libraries, laboratories, lecture halls, and auditoriums  
+  - Hostels, guest accommodations, health center, cafeteria, CBI ATM, stationery store  
+
+---
+
+Academic Programs  
+Undergraduate Programs (B.Tech)  
+- Total Student Intake: 1,380 students  
+- Programs & Intake:  
+  - CSE – 540  
+  - **CSE (AI & ML)-CSM – 180  
+  - **CSE (Data Science)** – 180  
+  - **ECE** – 180  
+  - **IT** – 180  
+  - **EEE** – 60  
+  - **ME** – 30  
+  - **CE** – 30  
+
+Postgraduate Programs (M.Tech & MBA)  
+- Total Student Intake: 150 students  
+- **Programs & Intake**:  
+  - **M.Tech**:  
+    - CSE – 6  
+    - PEED – 6  
+    - DECS – 6  
+    - SE – 6  
+    - ED – 6  
+  - **MBA**: 120  
+
+### **Ph.D. Programs**  
+- **Departments Offering Ph.D.**:  
+  - CSE  
+  - ECE  
+  - EEE  
+  - CE  
+  - ME  
+
+---
+--Admission Process---  
+
+B.Tech Admissions  
+- **Category-A (70%)**: EAMCET rank-based admission  
+- **Category-B (30%)**: Other candidates  
+- **Lateral Entry**: 10% seats through ECET for diploma holders  
+
+### **M.Tech Admissions**  
+- **Category-A (70%)**: PGECET rank-based (Preference to GATE-qualified candidates)  
+- **Category-B (30%)**: Other candidates  
+
+### **MBA Admissions**  
+- **Category-A (70%)**: ICET rank-based  
+- **Category-B (30%)**: Other candidates  
+
+### **Ph.D. Admissions**  
+- Conducted through **JNTUH, Hyderabad**  
+
+---
+
+## **Fee Structure (Annual Tuition Fee in ₹)**  
+
+| Program | 2022 Batch | 2021 Batch | 2020 Batch | 2019 Batch |  
+|---------|------------|------------|------------|------------|  
+| **B.Tech** | 1,40,000 | 1,25,000 | 1,25,000 | 1,25,000 |  
+| **M.Tech** | 57,600 | 57,600 | - | - |  
+| **MBA** | 45,000 | 45,000 | - | - |  
+
+---
+
+## **Department of Computer Science and Engineering (CSE)**  
+
+### **Established**: 1999  
+### **Programs Offered**:  
+- B.Tech in CSE  
+- M.Tech in CSE  
+- Ph.D. in CSE  
+
+### **Accreditation**:  
+- NBA Tier-1 Accreditation (B.Tech)  
+
+### **Key Research Areas**:  
+- Theoretical Computer Science  
+- High-Performance Computing  
+- Artificial Intelligence & Deep Learning  
+- Internet of Things (IoT)  
+- Data Science  
+- Networking  
+- Image Processing & Computer Vision  
+- Cybersecurity  
+
+### **Infrastructure**:  
+- Advanced academic & research labs  
+- ICT-enabled classrooms & tutorial rooms  
+- Technical association & conference spaces  
+
+### **Skill Development & Industry Readiness**:  
+- Technical workshops & training sessions  
+- Placement-oriented training  
+- Certification programs in emerging technologies  
+- Competitive exam preparation  
+
+### **Department Leadership**:  
+- **Head of Department (HOD)**: Dr. Ramesh Karnati  
+- **Faculty Strength**: 50  
+
+---
+
+This structured format makes it easier for your chatbot to retrieve precise answers based on queries related to VCE, its programs, faculty, fees, and admissions. Let me know if you need any modifications!
+About the Department of Electronics and Communication Engineering  
+The Department of Electronics and Communication Engineering (ECE) at Vardhaman College of Engineering has established itself as a cornerstone of academic and research excellence. Offering both undergraduate (B.Tech) and postgraduate (M.Tech) programs, the department is renowned for its quality education and innovation-driven approach. The B.Tech program in ECE is accredited by the National Board of Accreditation (NBA) under the prestigious Tier-I category, reflecting the department’s commitment to maintaining high standards in education and research.
+The department specializes in diverse areas, including Embedded Systems, VLSI Design, Signal Processing, Communication Systems, Internet of Things (IoT), Wireless Sensor Networks, Robotics, and Artificial Intelligence. Its strong faculty team comprises highly qualified and experienced professionals who foster an environment of learning, innovation, and research. The department actively collaborates with industries and research organizations, providing students with exposure to real-world applications and advancements in technology.
+State-of-the-art infrastructure supports the department’s academic and research activities. It includes advanced laboratories equipped with modern tools and software, ICT-enabled classrooms, and dedicated spaces for technical associations, seminars, and conferences. These facilities ensure a comprehensive and interactive learning environment for students.
+To enhance students' skills and career readiness, the department regularly conducts technical workshops, guest lectures, and industry-oriented training sessions. Special emphasis is placed on developing employability skills, including analytical thinking, problem-solving, and technical expertise in emerging domains. The department also organizes certification programs and preparatory sessions for competitive exams and placements.
+The Department of Electronics and Communication Engineering is headed by Dr. P. Nageswara Rao, a distinguished professor with extensive teaching and research experience. Under his guidance, the department continues to excel in providing quality education and fostering innovation in the field of electronics and communication.
+Faculty—38
+
+About the Department of Information Technology
+The Department of Information Technology (IT) at Vardhaman College of Engineering was established in 1999 and offers a comprehensive undergraduate (B.Tech) program. Accredited by the National Board of Accreditation (NBA) under the Tier-I category, the program reflects the department’s commitment to delivering quality education that aligns with global standards.
+The department is dedicated to fostering excellence in engineering education through innovative teaching methodologies and training programs that prepare students for future challenges. With a focus on holistic development, the curriculum is enriched with domain verticals that address emerging technologies and industry demands. These include Machine Intelligence and Data Analytics, Image Processing, Network Security, and Software Engineering, ensuring students are equipped with relevant skills and expertise total faculty—28.
+The department is led by Dr. G. Suryanarayana, an Associate Professor and the Head of the Department, whose vision and academic leadership drive the department's continuous growth and success. Through its state-of-the-art facilities, industry collaborations, and a robust academic framework, the Department of Information Technology provides students with the knowledge and skills to thrive in a rapidly evolving technological landscape.
+
+About the Department of CSM (Artificial Intelligence & Machine Learning)
+The Department of CSE (AI & ML) also known as CSM at Vardhaman College of Engineering offers a four-year B.Tech program specializing in Artificial Intelligence and Machine Learning. This program is meticulously designed to equip students with technical expertise in the rapidly evolving field of AI, fostering innovation and advanced research. The department’s mission is to drive progress in emerging AI applications and promote cutting-edge education and research in Artificial Intelligence.
+With a team of highly qualified faculty, the department delivers specialized and elective courses in areas such as Machine Learning, Deep Learning, Robotics, and related fields. These courses ensure students gain in-depth knowledge and hands-on experience in advanced AI and ML concepts, preparing them for real-world challenges.
+Career Prospects:
+Graduates of this program have excellent career opportunities in diverse domains such as Machine Learning, Artificial Intelligence, Big Data Analytics, AI Architecture, Robotics, and Software Engineering. These promising fields offer students a pathway to impactful and rewarding professional roles.
+The department is led by Dr. M. A. Jabbar, a distinguished professor and Head of the Department, whose expertise and vision guide the department’s pursuit of excellence in AI and Machine Learning education and research.
+Total faculty---33
+
+About the Department of Artificial Intelligence & Machine Learning
+The Department of Artificial Intelligence & Machine Learning (AIML) at Vardhaman College of Engineering was established in the academic year 2021-22 with approval from AICTE-JNTUH. The department is dedicated to providing cutting-edge education and research opportunities in AI and ML, guided by a team of six well-qualified faculty members with rich expertise in teaching, research, and industry practices. The department aims to prepare students with advanced knowledge and skills to meet the demands of emerging technologies and Industry 4.0.
+AI and ML, as complementary disciplines, offer transformative potential, opening new avenues for innovation and providing diverse and challenging career opportunities. The department is committed to nurturing students to excel as industry and academic leaders both nationally and internationally. It also follows an Outcome-Based Education (OBE) framework from its inception, ensuring that the curriculum is aligned with global standards and industry requirements.
+The department boasts state-of-the-art infrastructure, including modern laboratories and other facilities designed to create an engaging and enhanced learning environment. Its vision is to produce graduates with a deep understanding of both theoretical and practical aspects of Artificial Intelligence and Machine Learning, empowering them to address real-world challenges effectively.
+The Department of AIML is led by Dr. Gagandeep Arora, a distinguished professor and Head of the Department, whose leadership drives the department’s mission of academic excellence and innovation
+total faculty:6
+
+About the Department of CSD
+The Department of Computer Science & Engineering with a specialization in Data Science at Vardhaman College of Engineering offers an advanced curriculum designed to equip students with the skills required to excel in the rapidly growing field of data science. The department is committed to providing high-quality education, fostering innovation, and conducting cutting-edge research in areas such as big data, machine learning, data mining, and statistical analysis.
+The department is staffed by 16 highly qualified faculty members who bring a wealth of experience in teaching, research, and industry applications. They are dedicated to delivering specialized courses and practical training in Data Science, ensuring that students gain the knowledge and skills needed to tackle complex data-driven challenges in real-world scenarios.
+The department emphasizes a hands-on learning approach, with state-of-the-art laboratories and modern computational tools, enabling students to work on projects and research that align with industry needs. The department’s goal is to prepare students for successful careers in data science and related fields by offering them comprehensive training in both theory and application.
+The Department of CSD is headed by Dr. G. Sreenivasulu, a respected professor with extensive experience in the field, who leads the department with a vision to produce future leaders in Data Science and contribute to advancements in this dynamic field.
+total faculty:17
+
+About the Department of Artificial Intelligence and Data Science
+The Department of Artificial Intelligence and Data Science (AI & DS) at Vardhaman College of Engineering was established in 2021 to meet the growing demand for expertise in these transformative fields. The department offers a four-year Bachelor of Technology (B.Tech) program designed to equip students with the skills required to excel in Artificial Intelligence (AI) and Data Science, two of the most rapidly evolving areas in technology.
+The program provides a comprehensive foundation in applied mathematics, which is essential for data analysis and artificial intelligence applications. It emphasizes the development of problem-solving skills, enabling students to analyze, design, and experiment with innovative solutions to complex challenges. Key areas of focus include intelligent data analysis, machine learning, deep learning, natural language processing, and the latest advancements in AI and Data Science.
+Artificial Intelligence and Data Science are among the ten emerging specializations identified by AICTE and MHRD, addressing the dynamic needs of industries. The program prepares students to extract valuable insights from vast amounts of data, including sensors, images, streaming video, satellite and medical imagery, and cloud data.
+The department is led by Dr. S. Hariharan, a distinguished professor with vast expertise in the field. He is supported by a team of six dedicated faculty members, all of whom contribute to creating a cutting-edge learning environment that fosters both academic excellence and research innovation in AI and Data Science.
+
+About the Department of Electrical & Electronics Engineering
+The Department of Electrical & Electronics Engineering (EEE) at Vardhaman College of Engineering was established in 2002 and has since become a pivotal department, focusing on cutting-edge advancements in electrical and electronics technology. With an initial intake of 60 students, the department has grown to offer specialized postgraduate programs, including M.Tech in Power Electronics & Electrical Drives, introduced in the academic year 2008-09, with an intake of 18 students.
+The department is led by Dr. N. Karuppiah, a seasoned professor with vast teaching experience, supported by a team of 22 faculty members, including 7 Ph.D. holders and 15 with postgraduate qualifications. The department also employs 5 non-teaching staff to ensure smooth operation and academic support. The program in Electrical & Electronics Engineering has been accredited by the National Board of Accreditation (NBA) until 2025, which underscores its high academic standards.
+The department is equipped with state-of-the-art air-conditioned laboratories, offering a wide range of facilities to support both theoretical and practical learning. These include:
+1.	Basic Electrical Engineering Laboratory
+2.	Electrical Circuits Laboratory
+3.	Control Systems Laboratory
+4.	Electrical Machines Laboratory
+5.	Power Electronics Laboratory
+6.	Power Systems Laboratory
+7.	Electrical Measurements Laboratory
+8.	High Voltage Laboratory
+9.	Power Semiconductor Drives Laboratory
+10.	Project Laboratory
+11.	Research Laboratory
+In addition to its academic focus, the department encourages student engagement through the Electrical Technical Association (ETA), which organizes seminars, quizzes, industrial visits, paper contests, guest lectures, and career guidance programs. The students are also actively encouraged to participate in national-level seminars, paper presentations, and industrial tours for broader exposure to the industry.
+The department is affiliated with the IEEE Student Chapter and ISTE Chapter, providing students access to academic resources such as IEEE journals and digital access to other research papers. An active alumni chapter exists, enabling ongoing interaction and feedback to enhance academic offerings and placement opportunities.
+The M.Tech (Power Electronics & Electrical Drives) program provides a comprehensive understanding of system-level modeling, analysis, design, and integration of motor drives. The course also delves into advanced topics like microprocessors and microcontrollers, which are essential for modern Power Electronics engineers. The program combines theoretical knowledge with practical experience, preparing students for careers in the instrumentation, control, and electrical process industries.
+The Department of Electrical & Electronics Engineering continues to be a leader in advancing knowledge, fostering innovation, and contributing to the development of the electrical and electronics engineering field.
+About the Department of Mechanical Engineering
+The Department of Mechanical Engineering at Vardhaman College of Engineering was established in 2005, initially with an intake of 60 students. Over the years, the intake capacity has increased to 90 in 2009 and 120 in 2013, reflecting the growing demand for skilled professionals in this dynamic field. The department is led by Dr. P. Venkateshwar Reddy, an experienced academician and researcher, who oversees a faculty of 16 well-qualified, knowledgeable, and dedicated members.
+Mechanical Engineering is one of the most diverse and widely applicable fields, encompassing a range of specialties such as acoustics, air-conditioning, robotics, fluid dynamics, biomechanics, energy management, nanotechnology, and mechatronics. Mechanical engineers are not only involved in automotive and manufacturing sectors but also in cutting-edge areas like engineering design, computer-aided design (CAD), and turbo-machinery. As technology continues to evolve, the field of Mechanical Engineering remains a key driver of innovation in various industries.
+The department offers a comprehensive education designed to prepare students for successful careers in Mechanical Engineering. The curriculum emphasizes practical skills and outcome-based learning, ensuring that students are equipped with the technical knowledge and competencies required to excel in the industry. The department is well-equipped with state-of-the-art laboratories that meet university standards and provide hands-on experience to students.
+To foster continuous learning and professional development, the department has established the Mechanical Engineering Students Association (MESA). This student-led association organizes workshops, seminars, technical fests, and guest lectures, encouraging students to explore advanced research areas and emerging technologies in the industry. Students are also actively encouraged to present papers and participate in national-level technical events.
+The department's Mechanical Engineering program is accredited by the National Board of Accreditation (NBA) until 2024, underscoring the high standards of education and training provided to students. The department remains committed to producing skilled professionals who are prepared to meet the evolving challenges of the global engineering landscape.
+About the Department of Civil Engineering
+The Department of Civil Engineering at Vardhaman College of Engineering was established in 2009 and offers a comprehensive B.Tech program in Civil Engineering, which has received NBA accreditation under the Tier-I category. Civil Engineering is one of the oldest and most versatile engineering disciplines, responsible for the design, construction, and maintenance of critical infrastructure such as bridges, tunnels, highways, dams, buildings, airports, water supply systems, and wastewater treatment plants. A civil engineer's role requires not only advanced engineering knowledge but also strong supervisory and administrative skills.
+The department is headed by Dr. P. Venkata Koteswara Rao, and it boasts a dedicated team of 14 faculty members. The department provides state-of-the-art infrastructure and facilities that allow students to apply theoretical knowledge practically. The department is equipped with several well-established laboratories and workshops, including:
+•	Geotechnical Engineering Laboratory
+•	Basic Material Testing Laboratory
+•	Survey Laboratory
+•	Engineering Geology Laboratory
+•	Computer-Aided Design Laboratory
+•	Concrete and Highway Material Testing Laboratory
+•	Structural Design Studio
+•	Environmental Engineering Laboratory
+Additionally, the department maintains a comprehensive library with over 400 books and student project reports. A dedicated computer center is available to students for project work, with internet connectivity and access to necessary software for civil engineering applications.
+To enhance learning and keep students updated on the latest industry trends, the department regularly invites experts from academia and industry for technical talks and guest lectures. The department also has an academic advisory council comprising eminent professionals, ensuring a smooth transfer of knowledge and fostering consultancy opportunities.
+With a strong emphasis on practical learning and academic excellence, the Department of Civil Engineering continues to nurture students who are well-prepared to tackle the challenges of the evolving civil engineering landscape.
+About the Department of Management Studies
+The Department of Management Studies at Vardhaman College of Engineering offers a comprehensive MBA program aimed at equipping students with the skills necessary for leadership roles in the business world. The department focuses on delivering high-quality education in various aspects of management, including finance, marketing, human resources, operations, and strategic management.
+The department is headed by Dr. Sukanya Metta, a highly experienced professor with a strong background in management education. The department is supported by a dedicated team of 13 qualified faculty members who bring a wealth of academic and industry experience to the classroom.
+With a vision to foster a spirit of entrepreneurship and innovation, the department offers an environment where students are encouraged to develop critical thinking and problem-solving skills, preparing them for successful careers in the global business environment. The department also organizes various skill enhancement programs, seminars, workshops, and industry interactions to help students stay updated with the latest trends and practices in the business world.
+Through a blend of theoretical knowledge and practical applications, the Department of Management Studies aims to create business leaders who are well-equipped to navigate the challenges and opportunities in the modern business landscape.
+
+About the Department of Chemistry
+The Department of Chemistry at Vardhaman College of Engineering offers a strong foundation in the fundamental principles of chemistry, which are integral to the understanding of various engineering disciplines. The department plays a key role in imparting knowledge in both basic and applied chemistry to students across various engineering programs.
+The department is led by Dr. M Siddhartha, an Associate Professor with extensive teaching and research experience. Under his guidance, the department provides students with a comprehensive understanding of chemical processes, materials, and analytical techniques that are essential in engineering.
+The department is supported by a team of 14 dedicated faculty members, who are actively engaged in both teaching and research activities. The department offers well-equipped laboratories that cater to the academic needs of students, providing hands-on experience in experiments and research.
+The Department of Chemistry aims to cultivate a deep understanding of chemistry's role in the development of new materials, products, and technologies, preparing students for careers in industries such as pharmaceuticals, materials science, and environmental engineering.
+
+About the Department of English
+The Department of English at Vardhaman College of Engineering is dedicated to improving the language and communication skills of engineering students, enabling them to express their ideas clearly and effectively in both written and spoken forms. The department offers courses in English language, technical writing, and communication skills to help students master the nuances of the English language and enhance their professional communication abilities.
+The department is led by Dr. V. Parvathi, an Assistant Professor with a strong background in English language and literature. Under her guidance, the department focuses on providing students with the necessary skills to succeed in their academic pursuits, professional careers, and interdisciplinary research.
+The department consists of 13 faculty members who are committed to fostering an environment of continuous learning and improvement. They engage students through a variety of teaching methods, including interactive lectures, group discussions, presentations, and language labs. The goal is to make students proficient in technical writing, public speaking, and effective communication, which are essential skills for engineers in the modern workplace.
+
+About the Department of Mathematics
+The Department of Mathematics at Vardhaman College of Engineering plays a crucial role in providing students with the necessary mathematical foundation for solving engineering problems. Mathematics is a key component of all engineering disciplines, and the department ensures that students acquire a strong understanding of both theoretical and applied mathematics.
+The department is led by Dr. V. Lakshminarayana, an Associate Professor with extensive teaching and research experience. Under his leadership, the department offers a range of undergraduate and postgraduate courses designed to enhance students' problem-solving, analytical, and computational skills.
+The department is supported by 13 faculty members who are dedicated to delivering quality education and fostering a deep understanding of mathematics among students. The faculty members employ a variety of teaching methods, including lectures, problem-solving sessions, and tutorials, to ensure that students grasp complex mathematical concepts and apply them effectively in their engineering studies.
+With a focus on areas such as calculus, linear algebra, differential equations, probability, and numerical methods, the Department of Mathematics aims to equip students with the tools required to approach engineering challenges with precision and innovation.
+
+About the Department of Physics
+The Department of Physics at Vardhaman College of Engineering is dedicated to providing students with a comprehensive understanding of the fundamental principles of physics and their application in various engineering fields. The department focuses on both theoretical knowledge and practical skills, preparing students to tackle complex problems in engineering through the lens of physics.
+The department is headed by Dr. Dadamiah PMD Shaik, an Associate Professor with significant teaching experience and expertise in the field of physics. Under his guidance, the department strives to foster a strong foundation in concepts such as mechanics, electromagnetism, optics, thermodynamics, and quantum physics, which are essential for all engineering disciplines.
+Supported by 9 highly qualified faculty members, the department uses a combination of lectures, practical experiments, and demonstrations to engage students and help them develop a deep understanding of physical phenomena. The department's aim is to equip students with the critical thinking skills needed to apply physics to real-world engineering problems and innovations.
+
+About Career Development Cell (CDC)
+The Career Development Cell (CDC) at Vardhaman College of Engineering is dedicated to assisting students in exploring diverse career paths and enhancing their skills for better opportunities. It offers continuous support in areas such as placements, internships, competitive exams, and higher studies. Under the leadership of Dean and Head of Department, Muni Shekar, the department works with a team of 11 faculty members.
+The Vision of the CDC is to provide transformative education, empowering individuals and organizations to reach their full potential. The Mission includes offering high-quality, relevant training programs that encourage lifelong learning and personal growth, equipping students with the skills, knowledge, and confidence to excel in their fields.
+The primary objectives of the CDC are to produce industry-ready graduates by bridging the gap between industry and academia, fostering both intrapersonal and interpersonal skills, and assessing the current skill level of students to develop them into competent professionals.
+The guiding principles of the CDC include steady progress through focused revisions, doubt clarification, assignment completion, and practice.
+
+The total number of faculty across all departments at Vardhaman College of Engineering (VCE) is:
+•	CSE: 53
+•	ECE: 11
+•	EEE: 22
+•	ME: 16
+•	CE: 14
+•	IT: 6
+•	AI & ML: 6
+•	AI & DS: 6
+. CSM : 33
+. CSD :17
+•	Management Studies: 13
+•	Chemistry: 14
+•	English: 13
+•	Mathematics: 13
+•	Physics: 9
+Total Faculty Count = 183 faculty members.
+Vardhaman College of Engineering (VCE) boasts a well-organized campus spread across 23 acres, housing six academic and administrative blocks. Block 1 accommodates the Departments of Computer Science and Engineering (CSE), Artificial Intelligence and Machine Learning (AIML), and Artificial Intelligence and Data Science (AIDS). Block 2 is dedicated to the Departments of Mechanical Engineering, Civil Engineering, and Chemistry. Block 3 hosts the Departments of Computer Science and Engineering (Data Science),Computer science and Engineering(Artificial Intelligence and Machine Learning)-CSM, Information Technology (IT), Electrical and Electronics Engineering (EEE), and Mathematics. Block 4 serves as the hub for the Career Development Cell (CDC), the Department of English, and offices for all Deans. Block 5 is allocated to the Departments of Electronics and Communication Engineering (ECE) and Management Studies (MBA). Block 6 features the central library and a mini-auditorium, while a main auditorium stands prominently opposite Block 6, serving as a venue for major events and gatherings. The campus infrastructure reflects a blend of modern facilities and academic focus, fostering an environment conducive to holistic development.
+Room number 1001,2001,3001,4001,5001 at Vardhaman College of Engineering indicates its location within the campus based on the following structure:
+•	3: The block number (Block 3 in this case).
+•	0: The floor number (Ground Floor).
+•	01: The specific room number within that floor.
+This systematic room numbering helps in easily identifying the block, floor, and exact location of a room within the campus.
+Campus Navigation:
+When entering the Vardhaman College of Engineering campus from the main gate, the layout of the blocks and facilities is as follows:
+Right Side:
+1.	5th Block: This block houses the departments of Electronics and Communication Engineering (ECE) and Management Studies (MBA).
+2.	4th Block: This block includes the Career Development Cell (CDC), English Department, and offices of all Deans. The first canteen is located in this block.
+3.	6th Block: This block comprises the Library and a Mini Auditorium.
+4.	Main Auditorium: Located opposite the 6th block, this is the primary venue for large-scale events and gatherings.
+Additionally, at the junction beyond these blocks, you’ll find the Indoor Stadium, which serves as a hub for sports and recreational activities.
+Left Side:
+1.	3rd Block: This block accommodates the departments of Computer Science and Engineering (CSM), Information Technology (IT), Electrical and Electronics Engineering (EEE), and Mathematics.
+2.	Glass Building: Positioned next to the 3rd block, this structure stands out architecturally.
+3.	2nd Block: This block includes the departments of Mechanical Engineering (MECH), Civil Engineering, and Chemistry.
+4.	1st Block (Administration Block): This is a key block housing:
+o	The Principal’s Office.
+o	The Examination Branch, located on the third floor.
+o	The departments of Computer Science and Engineering (CSE), Artificial Intelligence & Machine Learning (AIML), and Artificial Intelligence & Data Science (AIDS).
+Beside the glass building, there is a Refreshment Shop, providing snacks and beverages for students and staff.
+Campus Overview:
+The campus expands over 23 acres, with well-structured blocks and facilities, ensuring easy navigation for new visitors. Each block and facility is clearly marked, making it convenient for anyone to locate departments or amenities.
+
+admissions are done through TSEAMCET(Telangana state Engineering and medical common entrance test) test in to four year undergraduation program and TSECET(Telangana State Engineering common entrance test) test for diploma student who are opted to join in to second Btech.  
+
+Placements:
+The B.Tech Consolidated Placements Record for the past four years at Vardhaman College of Engineering showcases consistent and commendable performance. In the academic year 2023-24, 78 companies have visited so far, extending 975 offers with a placement percentage of 76.8%. The maximum salary offered is ₹52,00,000, while the minimum stands at ₹3,00,000, with an average salary of ₹6,48,276.
+In 2022-23, 83 companies participated, offering 1,508 placements with an impressive 86% placement rate. The maximum salary offered was ₹33,87,000, the minimum was ₹2,00,000, and the average was ₹6,64,870.
+During 2021-22, a total of 122 companies visited, resulting in 2,065 offers and a remarkable 95% placement rate. Salaries ranged from ₹2,00,000 to ₹42,66,800, with an average package of ₹5,67,393.
+In 2020-21, 143 companies visited the campus, providing 1,333 offers and achieving a 90% placement rate. The highest salary offered was ₹39,00,000, the lowest was ₹2,00,000, and the average stood at ₹5,02,255.
+These statistics highlight the growing opportunities and the strong placement support provided by the institution over the years.
+Contact Details
+Principal:
+Dr. JVR Ravindra
+E-Mail: principal@vardhaman.org
+Phone: +91 9502653333
+College Address:
+Vardhaman College of Engineering
+Kacharam, Shamshabad – 501218
+Hyderabad, Telangana, India
+E-Mail: info@vardhaman.org
+Phone: +91 8688901557
