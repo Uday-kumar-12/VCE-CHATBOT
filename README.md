@@ -1,6 +1,6 @@
 # 🤖 VCE Chatbot – Your Virtual College Assistant
 
-The **VCE Chatbot** is an intelligent virtual assistant designed to answer queries related to **VCE (Vasavi College of Engineering / [or your actual college name])**, such as departments, faculty info, events, and more. Built using web technologies, this chatbot enhances the digital experience for students and visitors.
+The **VCE Chatbot** is an intelligent virtual assistant designed to answer queries related to **VCE (Vardhaman College of Engineering), such as departments, faculty info, events, and more. Built using web technologies, this chatbot enhances the digital experience for students and visitors.
 
 ## 🎯 Purpose
 
